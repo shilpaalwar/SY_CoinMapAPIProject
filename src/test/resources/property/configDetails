@@ -1,0 +1,2 @@
+baseURL = https://pro-api.coinmarketcap.com
+conversion_endpoint = /v2/tools/price-conversion
