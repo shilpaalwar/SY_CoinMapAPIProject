@@ -18,7 +18,7 @@ prerequisites -
 
 Installing
 How/where to download your program
-1. Clone the git repository in your local system
+1. Clone the git repository (Master Branch) in your local system
 2. import the project (As Maven project) in IDE. (Project was build on Eclipse)
 3. IDE should have TestNG, Cucumber and Maven Plugin setup. if IDE does not have default plugin, setup with Market place.
 
