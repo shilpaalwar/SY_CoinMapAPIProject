@@ -27,6 +27,7 @@ How to run the program
 2. Open the file src/test/java testRunner.java. Riht click on File->Run As->TestNG Test
 
 command to run
+command to run mvn clean verify
 
 Authors - Shilpa Yadav
 
